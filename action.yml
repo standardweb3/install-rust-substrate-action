@@ -1,5 +1,9 @@
 name: "Install Rust for Substrate"
 description: "Install Rust configured for Substrate"
+author: "Standard Tech"
+branding:
+  icon: 'archive'  
+  color: 'gray-dark'
 
 inputs:
   nightly_toolchain_build:
